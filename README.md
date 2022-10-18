@@ -1,6 +1,6 @@
 hello, friend.
 
-checkout some of my work here:
+check out some of my work here:
 
 | GitHub Repo      | Description | Live Link     |
 | :---        |    :----:   |          ---: |
