@@ -1,8 +1,8 @@
-hello, friend.
-
-<a href="https://www.deviantart.com/uta4774/art/Fox-Gif-First-Animation-626493129">
-<img src="./foxy.gif" alt="foxy gif" max-width="200px" />
+<a href="https://www.deviantart.com/uta4774/art/Fox-Gif-First-Animation-626493129" target="_blank">
+<img src="./foxy.gif" alt="foxy gif" width="300px" />
 </a>
+
+hello, friend.
 
 check out some of my work here:
 
