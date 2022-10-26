@@ -1,5 +1,5 @@
 <a href="https://www.deviantart.com/uta4774/art/Fox-Gif-First-Animation-626493129" target="_blank">
-<img src="./foxy.gif" alt="foxy gif" width="300px" />
+<img src="./foxy.gif" alt="foxy gif" width="300px" title="Not my art. Click to redirect to the artist's DeviartArt page." />
 </a>
 
 # Currently looking for work.
