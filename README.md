@@ -10,7 +10,7 @@ I am looking for a position as a Full Stack Software Engineer at a company with 
 
 My experience is in collaboratively planning, designing, and building web applications using agile methodologies. I enjoy collaboratively working on software with people. My personable nature and ability to listen deeply are skills that I always bring to any team.
 
-I am particularly interested in bioinformatics, psychology, 3D engineering, audio engineering, game development, linux, cybersecurity, computational chemistry/biology, genetic algorithms, drug discovery, pschopharmacology, psychonautics, and open source software and education.
+I am particularly interested in bioinformatics, psychology, 3D engineering, audio engineering, game development, linux, cybersecurity, computational chemistry/biology, genetic algorithms, drug discovery, psychopharmacology, psychonautics, and open source software and education.
 
 ## Tech Stack:
 
