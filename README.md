@@ -2,12 +2,8 @@
 <img src="./13.webp" alt="background image" />
 </a>
 
-# 
-
 <img src="./forest-heims-resume.png#gh-light-mode-only" alt="forest heims resume" />
 <img src="./forest-heims-resume-dark.png#gh-dark-mode-only" alt="forest heims resume" />
-
-#
 
 I am a thoughtful software engineer confident and competent in planning, building and deploying full stack applications using the PERN stack (PostgreSQL, Express, React, Node). I am versed in and enjoy the creativity and psychology aspects of UX/UI Design, as well as systematic Test Driven Development writing, updating and debugging RESTful API's.
 
