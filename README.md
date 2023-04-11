@@ -2,23 +2,10 @@
 <img src="./13.webp" alt="background image" />
 </a>
 
-<img src="./forest-heims-resume.png#gh-light-mode-only" alt="forest heims resume" />
-<img src="./forest-heims-resume-dark.png#gh-dark-mode-only" alt="forest heims resume" />
+<img src="./forest-heims.png" alt="'forest heims' in a retro gaming font" />
 
-I am a thoughtful software engineer confident and competent in planning, building and deploying full stack applications using the PERN stack (PostgreSQL, Express, React, Node). I am versed in and enjoy the creativity and psychology aspects of UX/UI Design, as well as systematic Test Driven Development writing, updating and debugging RESTful API's.
+# 
 
-Lately I've been finding inspiration by getting into game development, learning Unity, C#, and Blender.
+I am a thoughtful software engineer confident and competent in planning, building and deploying full stack applications. I am most fluent and familiar with deploying projects built with the PERN stack (PostgreSQL, Express, React, Node), but am highly adaptable to other OOP tech stacks.
 
-I come from an academic background of chemistry, philosophy, and art. Education will always be a value I hold, and I enjoy teaching and continuously learning.
-
-I am particularly interested in bioinformatics, psychology, 3D engineering, audio engineering, audio visualization, game development, Linux, cybersecurity, computational chemistry/biology, genetic algorithms, drug discovery, organic chemistry, psychopharmacology, psychonautics, and open source software and education.
-
-Tech Stack:
-
-- Languages: HTML, CSS, JavaScript, PostgreSQL, C# 
-- Libraries: React.js, Node.js, Jest
-- Frameworks: Express.js, vanilla JavaScript
-- Tools: Git, Visual Studio Code, Slack, Discord
-- SasS: Netlify, Heroku, Supabase
-- Other Libraries: fetch, superagent, three.js, tone.js
-- Game Development: Unity, Blender
+Particular interests of mine include bioinformatics, psychology, 3D engineering, audio engineering, audio visualization, game development, Linux, cybersecurity, computational chemistry/biology, genetic algorithms, drug discovery, organic chemistry, psychopharmacology, psychonautics, and open source software and education.
